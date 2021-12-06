@@ -1,0 +1,84 @@
+Conceito básico de cliente/servidor
+Cliente – Computador que requisita serviços da internet ao servidor.
+
+Servidor – servidor é um computador que fornece serviços a uma rede de computadores. Esses serviços podem ser, por exemplo, servidor de documentos, servidor de correio 
+eletrônico ou servidor de páginas web.
+
+Protocolo TPC/IP
+
+Para que dois computadores possam comunicar é necessário que se tenha um conjunto de regras a seguir no cumprimento da troca de informações. A esse conjunto de regras 
+denomina-se Protocolo. O protocolo utilizado na internet é o Protocolo TCP/IP (Transmission Control Protocol/Internet Protocol), que permite as redes se comuniquem umas com as outras. Cada máquina na rede tem um endereço único, pelo qual se chama IP. Seria o CPF do computador.
+
+Veja um exemplo de um número IP: 192.168.0.1. O número IP vale também para os endereços – sites, ou seja, cada endereço na Internet tem um número IP correspondente.
+
+Domínio
+
+Se não fosse o conceito de domínio quando fôssemos acessar um determinado endereço na web teríamos que digitar o seu endereço IP. Por exemplo: para acessar o site da Globo, ao invés de você digitar www.google.com você teria que digitar um número IP – 74.125.234.180.
+
+É através do protocolo DNS (Domain Name System), que é possível associar um endereço de um site a um número IP na rede. O formato mais comum de um endereço na Internet é algo como http://www.empresa.com.br, em que:
+
+● www: (World Wide Web): convenção que indica que o endereço pertence à web.
+
+● empresa: nome da empresa ou instituição que mantém o serviço.
+
+● com: indica que é comercial.
+
+● br: indica que o endereço é no Brasil.
+
+De acordo com a padronização os tipos de instituição são divididos em:
+
+● mil – militar
+
+● org – organização não lucrativa
+
+● com – comercial
+
+● edu – educação (universidades, escolas, etc.)
+
+● net – rede
+
+URL
+
+Um URL (de Uniform Resource Locator), em português Localizador-Padrão de Recursos, é o endereço de um recurso (um arquivo, uma impressora etc.), disponível em uma rede; seja a Internet, ou uma rede corporativa, uma intranet.
+
+Uma URL tem a seguinte estrutura: protocolo://máquina/caminho/recurso.
+
+HTTP
+
+É o protocolo responsável pelo tratamento de pedidos e respostas entre clientes e servidor na World Wide Web. Os endereços web sempre iniciam com http:// (http significa Hypertext Transfer Protocol, Protocolo de transferência hipertexto).
+
+Hipertexto
+
+São textos ou figuras que possuem endereços vinculados a eles. Essa é a maneira mais comum de navegar pela web.
+
+Chat
+
+Programas, ou sites que possibilitam a conversa pelo computador, via internet. O usuário se comunica com outras pessoas em tempo real.
+
+Blog
+
+O blog é uma página web atualizada frequentemente, composta por pequenos parágrafos apresentados de forma cronológica. É como uma página de notícias. O conteúdo dos blogs abrange uma infinidade de assuntos que vão desde diários, piadas, links, notícias, poesias, ideias, fotografias, enfim, tudo que a imaginação do autor permitir. Usar um blog é como mandar uma mensagem instantânea para toda a web. Você escreve sempre que tiver vontade e todos que visitam seu blog tem acesso ao conteúdo.
+
+Redes Sociais
+
+As redes sociais atualmente são o grande fenômeno da internet. Nelas você pode fazer novos amigos ou manter contato com amizades já preexistentes. Entre as redes atuais mais famosas estão Facebook, Twitter, Instagram, YouTube, Pinterest, Whatsapp, etc.
+
+Outros conceitos fundamentais
+
+SITE: é uma coleção de páginas web, isto é, de documentos acessíveis através da web na internet.
+
+HOME PAGE: página inicial de um site.
+
+DOWNLOAD: salvar um arquivo da web em seu computador.
+
+Spam: Spams são e-mails indesejáveis que chegam a sua caixa de e-mail. O Spam geralmente não traz nenhum dano lógico ou físico para a sua máquina. No entanto, uma caixa de e-mail com uma variedade de e-mails indesejáveis faz com que o usuário perca um bom tempo de seu dia excluindo essas mensagens.
+
+Vírus: É um software malicioso que foi desenvolvido para infectar o sistema, fazendo cópias de si mesmo além de tentar se espalhar para outros computadores, utilizando-se de diversos meios, como por exemplo, e-mail e pendrive.
+
+Cookies: Cookie é uma maneira que certos sites utilizam para manter informações sobre o usuário, para que ele possa obter uma experiência personalizada todas as vezes que entrar no site.
+
+Pop ups: são janelas com diversos formatos e opções de configuração que abrem em uma página de navegação. Geralmente, elas apresentam informações de destaque do site ou anúncios. Opop upé um recurso utilizado com o intuito de chamar a atenção do usuário. Ele foi criado como uma opção para substituir os banners.
+
+Intranet, Extranet e Internet?
+
+À medida que as tecnologias de informação foram evoluindo, diversas aplicações e serviços foram surgindo. Quando esses serviços, ou aplicações são utilizados em uma rede local que não está conectada à Internet, o ambiente de trabalho é chamado de Intranet. Uma Intranet também pode estar conectada à Internet. Quando isso ocorre, é possível acessar aplicações internas de uma rede local estando em qualquer ponto do mundo. Nessa situação, a Intranet recebe o nome de Extranet.

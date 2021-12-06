@@ -1,0 +1,37 @@
+Navegação Segura na Internet
+MALWARES
+
+Malware é o nome genérico dado a todos os tipos de pragas que podem atacar seu computador: vírus, spywares, cavalos de Tróia, etc. Existem vários bons programas gratuitos para realizar a remoção destes programas indesejados. Vamos entender melhor o que são as principais pragas:
+
+Vírus: Um programa de computador com a intenção de danificar seus arquivos e prejudicar o funcionamento de seu sistema operacional.
+
+Spyware: Programa de computador que não tem intenção de prejudicar o funcionamento do computador e, sim, roubar dados do usuário.
+
+Cavalo de Troia (Trojan): Programa de computador que traz consigo, escondidas, pragas ou falhas de segurança.
+
+Adware: É a praga mais comum hoje em dia. Seu objetivo é simplesmente capturar dados simples com o objetivo de direcionar propagandas de sites. Não objetiva destruir dados, tampouco roubar dados bancários ou cartões.
+
+COMPLEMENTOS NO NAVEGADOR
+
+Como vimos, nem todos o malwares são destrutivos. Um adware, por exemplo, apenas avalia seu comportamento na internet, entre outras informações básicas, para fornecer-lhe propagandas direcionadas. Como isso é feito sem a sua autorização e pode levá-lo a sites não confiáveis, enquadramos adware como programa malicioso. Alguns adwares instalam-se por meio de um recurso chamado “complementos” ou “extensões” em seu navegador de internet.
+
+Todo complemento pode ser desinstalado. Abaixo, você encontra o passo a passo para acessar os complementos do navegador Google Chrome, usado como base por ser gratuito e líder de mercado. Importante ressaltar que nem todos os complementos são ruins, alguns podem ser úteis e/ou necessários para alguns sites (ex: segurança de bancos online).
+
+MANTENDO-SE SEGURO NA INTERNET
+É impossível garantir 100% de segurança para seus dispositivos, sejam eles computadores, notebooks, tablets ou celulares. Porém, algumas medidas ajudam a diminuir o risco de problemas.
+
+Certificações
+
+Existem diversas autoridades chamadas “certificadoras”. São empresas especializadas em análise de segurança de sites. Para verificar se a página que você está acessando é certificada, procure por um símbolo de cadeado e pelo endereço começando com “https”. Geralmente, os sites de compras só exibem este selo no momento da finalização da compra (inserção de usuário, senha e demais dados pessoais).
+
+Métodos de pagamento
+
+As duas formas mais comuns de pagamentos de compras pela internet são cartão de crédito e boleto bancário. Não há dúvidas que o boleto é a mais segura delas, porém pode vir com o custo extra da emissão do mesmo. Além disso, o boleto não possibilita parcelamento e sua compensação pode levar 48h. Em alguns sites, entretanto, o pagamento à vista, em boleto, gera mais descontos.
+
+Cartão de crédito é uma opção interessante pela agilidade da compensação e a possibilidade de parcelamento. Mas seu uso deve ser feito com cuidado, somente em sites confiáveis. É possível ainda - e recomendável - utilizar serviços que intermediam a transação com adicionais de segurança, como por exemplo Paypal e PagSeguro. Além disso, se você possui um cartão de crédito Nubank, tem a opção de criar cartões virtuais pelo aplicativo do cartão, para serem utilizados em compras online. O cartão virtual terá numeração diferente da do seu cartão físico (mas igual validade e crédito), com a vantagem de poder ser cancelado, bloqueado ou criado novo cartão a qualquer tempo, o que dificulta o roubo de dados na internet e alivia o incômodo de ter que solicitar novo cartão físico por causa de vazamento de dados.
+
+Não clique aqui!
+
+A velocidade das conexões de internet fez com que os sites pudessem trazer uma infinidade de informações já nas suas páginas iniciais. Isso, aliado à crescente exploração da internet como geração de renda, acabou implicando em páginas cheias de propaganda de outros sites, produtos, dietas malucas e ofertas de trabalho improváveis (do tipo "trabalhe em casa e ganhe $$$$ por mês, me pergunte como" ou "fulana está tão diferente que é inacreditável" ou ainda "dieta X surpreende os médicos que não querem que seja divulgada").
+
+Por isso, é extremamente importante ter cuidado na hora de clicar em propagandas. Lembre-se: as propagandas exibidas em sites não são de responsabilidade de quem as exibe. Por exemplo, um anúncio naquele site que você confia não é de responsabilidade deles e, frequentemente, não passa por nenhum tipo de moderação. Desconfie!

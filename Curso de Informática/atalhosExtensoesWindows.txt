@@ -1,0 +1,136 @@
+Atalhos do Windows
+Para dominaro novo sistema, vale a pena aprender alguns atalhos de teclado. Com isso, você consegue navegar pela interface, posicionar apps em partes específicas 
+da tela, ativar eventos, mudar configurações e muito mais apenas ao pressionaralgumas teclas. Eis alguns dos atalhos que consideramosos mais úteis:
+
+Tecla do Windows + Tab: Ativa do gerenciador de tarefas;
+
+Tecla do Windows + A:Ativa o Action Center;
+
+Tecla do Windows + C: Ativa a Cortana com a fala;
+
+Tecla do Windows + D: Mostra a área de trabalho;
+
+Tecla do Windows + E: Abre o pesquisador de arquivos;
+
+Tecla do Windows + G: Ativa o novo recurso de Xbox para gravar jogos ou capturar imagens da tela;
+
+Tecla do Windows + H: Ativa o recurso de compartilhamento nos aplicativos do Windows 10;
+
+Tecla do Windows + I:Abre as configurações do sistema;
+
+Tecla do Windows + K: Ativa o recurso Conectar para transmitir para monitores sem fio e dispositivos de áudio;
+
+Tecla do Windows + L: Bloqueia a máquina;
+
+Tecla do Windows + P: Projeta uma tela;
+
+Tecla do Windows + R:Executa um comando;
+
+Tecla do Windows + S:Ativa o Cortana;
+
+Tecla do Windows + X:Abre as configurações do uso de energia;
+
+Tecla do Windows + Seta para Direita/Esquerda/Cima/Baixo:
+
+Para fixar aplicativos do lado de uma tela. Pressione as setas para cima/baixo após ter usado as setas para direita/esquerda para poder fixar até quatro aplicativos 
+de uma vez;
+
+Tecla do Windows + Ctrl + D:Cria uma nova área de trabalho virtual;
+
+Tecla do Windows + Ctrl + F4: Fecha uma área de trabalho virtual;
+
+Tecla do Windows + Ctrl + Seta para direita/esquerda: Alterna entre áreas de trabalho virtuais;
+
+Tecla do Windows + Shift + Seta para direita/esquerda: Move aplicativos de um monitor para outro;
+
+Tecla do Windows + 1/2/3…: Abre programas que estão fixados na barra de tarefas. O primeiro é o número 1 e assim por diante.
+
+As principais extensões de arquivos
+As extensões de arquivos são sufixos que designam seu formato e principalmente a função que desempenham no computador. Na plataforma Windows, todo tipo de arquivo 
+tem sua extensão, que o difere dos demais dentre milhões existentes em cada máquina.
+
+Cada extensão de arquivo tem funcionamento e características próprias, portanto demanda um software específico para trabalhar com ela. Há extensões para os mais 
+variados propósitos, então vamos separá-las por categorias, organizando melhor as coisas.
+
+EXTENSÕES
+
+A principal
+
+Sem dúvida alguma, a principal extensão do Windows é o EXE. Sem ele, não haveria player de áudio instalado no computador, nem compactadores, visualizadores de arquivo, 
+entre outros.
+
+A extensão significa basicamente que o arquivo é um executável. Isso dá a ele inúmeras possibilidades, desde realizar a instalação de um programa no seu computador 
+até mesmo executar um vírus dentro dele. Ou seja, tenha muita atenção antes de clicar em qualquer arquivo com este formato.
+
+Áudio
+
+MP3– Esta é atualmente a extensão para arquivos de áudio mais conhecida entre os usuários, devido à ampla utilização dela para codificar músicas e álbuns de artistas. 
+O grande sucesso do formato deve-se ao fato dele reduzir o tamanho natural de uma música em até 90%, ao eliminar frequências que o ouvido humano não percebe em sua 
+grande maioria.
+
+WMA– Esta extensão, muito semelhante ao MP3, foi criada pela Microsoft e ganhou espaço dentro do mundo da informática por ser o formato especial para o Windows Media 
+Player. Ao passar músicas de um CD de áudio para o seu computador usando o programa, todos os arquivos formados são criados em WMA. Hoje, praticamente todos os players 
+de música reproduzem o formato sem complicações.
+
+AAC– Sigla que significa codificação avançada de áudio, o AAC foi criado pela Apple a fim de concorrer diretamente com o MP3 e o WMA, visando superá-los em qualidade 
+sem aumentar demasiadamente o tamanho dos arquivos. Menos conhecido, o formato pode ser reproduzido em iPods e similares, além de players de mídia para computador.
+
+OGG– Um dos formatos menos conhecidos entre os usuários, é orientado para o uso em streaming, que é a transmissão de dados diretamente da Internet para o computador, 
+com execução em tempo real. Isso se deve ao fato do OGG não precisar ser previamente carregado pelo computador para executar as faixas.
+
+AC3 –Extensão que designa o formato Dolby Digital, amplamente utilizado em cinemas e filmes em DVD. A grande diferença deste formato é que as trilhas criadas nele 
+envolvem diversas saídas de áudio com frequências bem divididas, criando a sensação de imersão que percebemos ao fazer uso de home theaters ou quando vamos ao cinema.
+
+WAV– Abreviação de WAVE, ou ainda WAVEForm audio format, é o formato de armazenamento mais comum adotado pelo Windows. Ele serve somente para esta função, não podendo 
+ser tocado em players de áudio ou aparelhos de som, por exemplo.
+
+Imagem
+
+BMP– O Bitmap é um dos formatos de imagem mais conhecidos pelo usuário. Pode-se dizer que este formato é o que apresenta a ilustração em sua forma mais crua, sem 
+perdas e compressões. No entanto, o tamanho das imagens geralmente é maior que em outros formatos. Nele, cada pixel da imagem é detalhado especificamente, o que a 
+torna ainda mais fiel.
+
+GIF– Sigla que significa Graphics Interchange Format, é um formato de imagem semelhante ao BMP, mas amplamente utilizado pela Internet, em imagens de sites, programas 
+de conversação e muitos outros. O maior diferencial do GIF é ele permitir a criação de pequenas animações com imagens seguidas, o que é muito utilizado em emoticons, 
+blogs, fóruns e outros locais semelhantes.
+
+JPEG- Joint Photographic Experts Group é a origem da sigla, que é um formato de compressão de imagens, sacrificando dados para realizar a tarefa. Enganando o olho 
+humano, a compactação agrega blocos de 8X8 bits, tornando o arquivo final muito mais leve que em um Bitmap.
+
+PNG– Este formato surgiu em sua época pelo fato dos algoritmos utilizados pelo GIF serem patenteados, encarecendo a utilização dele. O PNG suporta canais alga e 
+apresenta maior gama de cores.
+
+Além destes formatos, há outros menos conhecidos referentes à gráficos e ilustrações vetoriais, que são baseadas em formas geométricas aplicadas de forma repetida na 
+tela, evitando o desenho pixelado feito no padrão Bitmap. Algumas delas são o CRD, do Corel, e o AI, do Adobe Ilustrator.
+
+Compactadores
+
+ZIP– A extensão do compactador Winzip se tornou tão famosa que já foi criado até o verbo “zipar” para mencionar a compactação de arquivos. O programa é um dos 
+pioneiros em sua área, sendo amplamente usado para a tarefa desde sua criação.
+
+RAR– Este é o segundo formato mais utilizado de compactação, tido por muitos como superior ao ZIP. O Winrar, programa que faz uso dele, é um dos aplicativos mais 
+completos para o formato, além de oferecer suporte ao ZIP e a muitos outros.
+
+7z– Criado pelos desenvolvedores do 7-Zip, esta extensão faz menção aos arquivos compactados criados por ele, que são de alta qualidade e taxa de diminuição de 
+tamanho se comparado às pastas e arquivos originais inseridos no compactado.
+
+Documentos
+
+TXT– Como o próprio nome deixa indicado, a extensão de nome TXT refere-se aos arquivos simples de texto criados com o bloco de notas do Windows. Eles são extremamente 
+leves e podem ser executados em praticamente qualquer versão do sistema operacional.
+
+DOC– Denomina a extensão utilizada pelo Microsoft Word, o editor de textos mais conhecido pelos usuários. A partir da versão 2007 do Office, formato passou a se chamar 
+DOCX, e apresenta incompatibilidades com as versões anteriores do aplicativo, o que pode ser resolvido com uma atualização.
+
+XLS– A descrição deste tipo de arquivo é muito semelhante à do Word, mas refere-se ao Excel, editor de planilhas da Microsoft.
+
+PPT– Esta extensão é exclusiva para o Microsoft Powerpoint, aplicativo que permite criar apresentações de slides para palestrantes e situações semelhantes.
+
+PDF– Formato criado pela Adobe, atualmente é um dos padrões utilizados na informática para documentos importantes, impressões de qualidade e outros aspectos. Pode ser 
+visualizado no Adobe Reader, aplicativo mais conhecido entre os usuários do formato.
+
+Desde o surgimento da informática e em especial dos softwares para sistemas operacionais, a importância e utilização das extensões de arquivo vem crescendo a cada dia. 
+O fato é que sem uma identificação e criação apropriada, seria caótico ter que informar ou em muitos casos adivinhar o tipo de arquivo com o qual estaríamos lidando.
+
+Por este motivo, cada extensão ou formato de arquivo tem o seu aplicativo específico, capaz de reproduzir, editar, salvar e modificar seu conteúdo de várias maneiras. 
+Com o uso intensivo do computador, em pouco tempo até mesmo quem nunca mexeu em um deles ficará habituado aos padrões atuais de formato de arquivos.
