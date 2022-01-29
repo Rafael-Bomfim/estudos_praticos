@@ -1,0 +1,82 @@
+O SQL, Structured Query Language, ouLinguagem de Consulta Estruturada, é a linguagem definida como declarativa que é utilizada paraconversar com um banco de dados relacional, ou seja, um banco dividido em tabelas e linhas.
+A linguagem é um grande padrão de banco de dados pela sua simplicidade e objetividade.
+
+Um banco de dados é uma ferramenta que irá gerar as nossas estruturas de bancos de dados a partir da interpretação dos scripts SQL.
+
+Existem vários serviços de banco, desde os mais caros e robustos aos gratuitos e simples, cada um com suas características.
+
+- Oracle:
+Serviço mais robusto e completo, recomendado para bancos de dados que exigem alto volume de informações sendo escritas e lidas.
+
+- PostgreSQL:
+Open source, é uma ferramenta gratuita e organizada, bastante utilizada no mercado.
+
+SQL Server:
+Serviço de banco de dados também mais robusto e oferecido pela Microsoft, também muito utilizado.
+
+- MySQL:
+Outra ferramenta da empresa Oracle, a mesma que desenvolve o banco de dados Oracle. É um dos bancos mais populares pois é bastante simples e eficaz.
+
+
+Coluna
+Colunas definem quais informações uma tabela guarda, elas definem qual tipo de dado será guardado.
+
+Tipos de Coluna:
+
+Existem diversos, os principais são:
+Texto: VARCHAR, VARCHAR2, TEXT... dependendo do banco.
+Inteiro: NUMBER, INT... dependendo do banco.
+Real: REAL, DOUBLE... dependendo do banco.
+Data: DATE, DATE_TIME... dependendo do banco.
+
+
+Características da Coluna
+
+Primary Key: não poderá ter valores repetidos na tabela.
+Foreign Key: faz uma referência a uma coluna de outra tabela do banco de dados.
+Not Null: coluna não pode estar em branco.
+Auto_Increment: coluna adiciona valores em ordem crescente automaticamente, feita para criar uma identificação única para cada linha da tabela. O id.
+
+
+Pesquisa no Banco
+Utilizamos a cláusula Select para realizar pesquisas no banco, pesquisas estas que resultam em tabelas com os resultados dos nossos filtros.
+
+
+
+
+_____________________________________________________________________________COMANDOS_______________________________________________________________________________
+
+
+CREATE DATABASE - cria banco de dados
+CREATE TABLE - cria tabela
+INSERT INTO - cria uma linha na tabela
+DELETE FROM - remove uma ou mais linhas em uma tabela
+UPDATE - atualiza uma ou mais linhas em uma tabela
+WHERE - criar filtros de pesquisa
+SELECT - selecionar as colunas para pesquisa
+FROM - selecionar as tabelas para pesquisa
+PRIMARY KEY - chave primaria (id)
+AUTO_INCREMENT - auto completa, chave primaria
+
+SELECT nome,
+       id      ------ mostra os nomes e os id's que tem na tabela cidade
+FROM cidade;
+
+
+SELECT nome,
+       id                                                 --------- mostra a cidade São Francisco, o seu id e cidade e o do estado
+FROM cidade WHERE nome = "São Francisco" AND id_estado;
+
+
+SELECT estado.nome,
+       cidade.nome
+FROM cidade,
+     estado                       --------------- mostra  as colunas nome das tabelas do estado e da cidade do país 1
+WHERE cidade.id_estado=estado.id
+AND estado.id_pais=1;
+
+
+SELECT estado.nome,
+       cidade.nome
+FROM estado                                              ----------- mostra todos os nomes da tabela do estado e da cidade, LEFT para preservar os valores da
+LEFT JOIN cidade ON estado.id=cidade.id_estado;                      tabela cidade e RIGTH para preservar os valores da tabela estado.
