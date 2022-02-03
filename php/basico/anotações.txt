@@ -1,0 +1,76 @@
+:: Delimitadores ou tags
+
+Para o PHP ser entendido pelo navegador web ele já fica embutido no próprio código HTML e o interpretador identifica o código PHP através dos delimitadores ou tags <?php ?> . Ex:
+
+<? php
+
+Comandos...;
+Comandos...;
+
+?>
+
+Obs: Lembrando que cada comando PHP será seguido de ponto e vírgula ao final da linha.
+
+:: Comentários
+
+Comentário só de uma linha é feito com duas barras //. Comentário de mais de uma linha você inicia com /* e termina com */. Os comentários são simplesmente ignorados pelo compilador, não interferem no código.
+
+:: Variáveis
+
+As variáveis em PHP sempre serão precedidas pelo caracter dólar $. Ex: $var, $nome
+
+Lembrando que o PHP é case sensitive, ou seja, ele diferencia maiúsculas de minúsculas. Então $var é diferente de $VAR.
+
+:: Tipos de Dados Suportados
+
+O PHP suporta os tipos:
+
+- Inteiro
+- Ponto flutuante
+- String
+- Array
+- Objeto
+
+Detalhe: não é preciso declarar o tipo de dado na declaração da variável porque o PHP utiliza checagem dinâmica de variáveis, ou seja, uma variável poderá conter diferentes valores de diferentes tipos durante a execução do código, o interpretador PHP decide qual o melhor tipo de dado representa aquele valor. Mesmo assim o programador pode realizar uma conversão para um determinado tipo de dado se assim o desejar utilizando, por exemplo, o comando settype que veremos adiante.
+
+::Strings
+
+Strings podem ser atribuídas de duas maneiras:
+
+a) utilizando aspas simples ( ´ ) – Desta maneira, o valor da variável será exatamente o texto contido entre as aspas .
+
+b) utilizando aspas duplas ( " ) – Desta maneira, qualquer variável ou caracter de escape será expandido antes de ser atribuído.
+
+:: Coersão
+
+Convertendo um tipo primitivo em outro explicitamente e com o comandosettype.
+
+Forma explicita:
+
+<?php
+
+$i =10;
+$i = (double)$i; //agora $i é um Double
+?>
+
+Comando Settype
+
+O comando settype converte uma variável para um tipo de dado especificado pelo programador.Settype(variável,novo tipo da variável).
+
+<?php
+
+$i =10;
+settype ($i, Double); //agora $i é um Double
+?>
+
+:: Controle de Fluxo
+
+- Instrução If else (se então): podemos ler como “se, condição verdadeira faça, senão faça outra coisa”, ou seja, o bloco de instrução só será executado se uma certa condição for satisfeita. 
+
+- Instrução Switch : esta instrução testa somente variáveis que possam ser convertidas para inteiro. Depois de testada a variável devemos trabalhar com blocos “case” dentro do switch. 
+
+A utilização em cada case do comando “break”, ele serve para executar o case referente ao resultado da variável testada e logo depois sair do Switch, se você não utilizar o break, todos os cases serão executados.
+
+- Instrução While (enquanto): o bloco será executado enquanto a condição for verdadeira. Perceba a diferença entre o If else e o While. No primeiro o bloco será executado somente SE a condição for verdadeira; no segundo o bloco será executado ENQUANTO a condição for verdadeira. 
+
+- Instrução For (para): o bloco será executado até que atinja o valor recebido pela variável. 
