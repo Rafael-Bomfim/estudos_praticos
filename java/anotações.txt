@@ -1,0 +1,27 @@
+:: Divisões do Java
+
+- JSE ( Java Standard Edition): é a base do Java. É composta pelo ambiente de execução e principais bibliotecas.
+
+- JEE (Java Enterprise Edition): compreende aplicações corporativas e Internet.
+
+- JME (Java Micro Edition): para aplicações em dispositivos móveis.
+
+
+:: Kit de desenvolvimento
+
+- JRE (Java Runtime Enviroment): compreende a JVM + bibliotecas. É justamente a JRE que você deve instalar no seu computador para executar aplicações Java. A JRE pode ser obtida gratuitamente no site da Oracle (a Sun foi comprada pela Oracle).
+
+- JDK (Java Development Kit): compreende JRE + kit completo de desenvolvimento. O JDK serve para criar e executar aplicações Java no seu computador. É o que os desenvolvedores usam e também se encontra gratuitamente no site da Oracle. Iremos utilizar este kit.
+
+:: Regras e convenções em Java – muito importante
+
+- Todo arquivo Java deve ter uma extensão .java (em minúscula);
+- Um arquivo a ser executado deve ter obrigatoriamente uma única classe pública(public) com um método “main” dentro dela;
+- O arquivo deve ter o mesmo nome desta classe pública;
+- O Java diferencia letras maiúsculas de minúsculas;
+- Os comandos em Java devem ser finalizados com ponto e vírgula “;”.
+- O nome de uma classe é um substantivo começando com letra maiúscula, por exemplo: Banco, Cliente, ContaCliente, AgenciaCliente.
+- O nome de um método é um verbo representando uma ação começando com letra minúscula, por exemplo: saltar, correr, sacarDinheiro, depositarDinheiro.
+- O nome de uma variável que contém duas palavras também segue o modelo primeira palavra começando em minúscula e a segunda palavra começando em maiúscula.
+
+
