@@ -1,0 +1,10 @@
+Atalhos::
+
+alt + z = quebra a linha sem atrapalhar o código
+ctrl + n = executa o código (necessário extensão do code runner)
+
+Comandos::
+
+.toString() converte a variável em string
+.toFixed(num) fixa duas casas após a vírgula em um número
+.replace("" , "") troca algo por outro
