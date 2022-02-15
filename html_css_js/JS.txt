@@ -8,3 +8,4 @@ Comandos::
 .toString() converte a variável em string
 .toFixed(num) fixa duas casas após a vírgula em um número
 .replace("" , "") troca algo por outro
+Math.sqrt() calcula raiz quadrada de um número
