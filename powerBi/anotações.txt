@@ -1,0 +1,15 @@
+color-hex > paletas > paletas populares
+Procurar paletas de cores
+
+Mycolor.space
+Sugere cores que combinam com uma cor já escolhida
+
+flaticon.com (usar palavras em inglês)
+Fornece ícones, tranformas palavras em algo visual
+
+Fórmulas::
+
+CALCULATE(a operação(1º a conta que eu quero fazer)), CONDIÇÃO - calcular baseado em uma condição
+BLANK() = vazio
+<> diferente 
+
