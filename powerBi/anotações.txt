@@ -1,3 +1,4 @@
+linguagem do power Bi = Dax
 color-hex > paletas > paletas populares
 Procurar paletas de cores
 
@@ -24,3 +25,8 @@ BLANK() = vazio
 <> diferente 
 COUNTROWS() = conta a quantidade d linhas de uma tabela
 
+
+
+
+d = Dimensão
+f = Fatos
