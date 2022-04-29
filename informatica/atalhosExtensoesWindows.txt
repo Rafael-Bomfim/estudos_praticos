@@ -1,5 +1,5 @@
 Atalhos do Windows
-Para dominaro novo sistema, vale a pena aprender alguns atalhos de teclado. Com isso, você consegue navegar pela interface, posicionar apps em partes específicas 
+Para dominar o novo sistema, vale a pena aprender alguns atalhos de teclado. Com isso, você consegue navegar pela interface, posicionar apps em partes específicas 
 da tela, ativar eventos, mudar configurações e muito mais apenas ao pressionaralgumas teclas. Eis alguns dos atalhos que consideramosos mais úteis:
 
 Tecla do Windows + Tab: Ativa do gerenciador de tarefas;

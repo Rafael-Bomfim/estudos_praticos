@@ -1,4 +1,10 @@
 linguagem do power Bi = Dax
+d = Dimensão
+f = Fatos
+
+
+Sites::
+
 color-hex > paletas > paletas populares
 Procurar paletas de cores
 
@@ -17,6 +23,9 @@ Fornece ícones, tranformas palavras em algo visual
 instant eyedropper (dowload)
 Identificar cores
 
+SYNOPTIC DESIGNER FOR POWER BI
+Mapeamento de gráficos
+
 
 Fórmulas::
 
@@ -24,9 +33,10 @@ CALCULATE(a operação(1º a conta que eu quero fazer)), CONDIÇÃO - calcular b
 BLANK() = vazio
 <> diferente 
 COUNTROWS() = conta a quantidade d linhas de uma tabela
+ALLSELECTED = filtros dinâmicos
+DISTINCTCOUNT = conta as linhas diferentes
+SUMX = Multiplica duas colunas e somando seu resultado
+CALENDARAUTO() = exibe as datas que possui na base de dados
+MONTH(data.....) = exibe o número do mês
+FORMAT(dCalendario[Data da Venda], "MMM") = exibe as três primeiras letras do nome do mês
 
-
-
-
-d = Dimensão
-f = Fatos
