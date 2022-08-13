@@ -41,9 +41,7 @@ Auto_Increment: coluna adiciona valores em ordem crescente automaticamente, feit
 Pesquisa no Banco
 Utilizamos a cláusula Select para realizar pesquisas no banco, pesquisas estas que resultam em tabelas com os resultados dos nossos filtros.
 
-
-
-
+Rollback: voltar ação.
 _____________________________________________________________________________COMANDOS_______________________________________________________________________________
 
 
@@ -57,6 +55,7 @@ SELECT - selecionar as colunas para pesquisa
 FROM - selecionar as tabelas para pesquisa
 PRIMARY KEY - chave primaria (id)
 AUTO_INCREMENT - auto completa, chave primaria
+TRIGGER (AFTER OU BEFORE) - gatilho 
 
 SELECT nome,
        id      ------ mostra os nomes e os id's que tem na tabela cidade

@@ -24,4 +24,25 @@
 - O nome de um método é um verbo representando uma ação começando com letra minúscula, por exemplo: saltar, correr, sacarDinheiro, depositarDinheiro.
 - O nome de uma variável que contém duas palavras também segue o modelo primeira palavra começando em minúscula e a segunda palavra começando em maiúscula.
 
+:: Tipos de dados
+
+% Primitiva:
+
+- boolean;
+- byte;
+- char;
+- short;
+- int;
+- long;
+- float;
+- double.
+
+% Por referência (são classes que especificam os tipos de objeto):
+
+- String;
+- Array Primitivo;
+- Integer;
+- Character;
+- Objetos.
+
 
