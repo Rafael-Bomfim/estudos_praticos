@@ -1,0 +1,65 @@
+/////////////////////////////////////////////////////COMANDOS///////////////////////////////////////////////////
+
+ls -a
+Mostra arquivos ocultos
+
+date
+Data
+
+cal
+Calendário hoje
+
+ls
+Mostra arquivos do diretório
+
+ls -la
+Mostra mais detalhes dos arquivos
+
+cd
+Muda de diretório
+
+cd..
+Volta ao diretório anterior
+
+cd -
+Volta ao primeiro diretório
+
+pwd
+Mostra em quais diretórios você está
+
+mkdir
+Cria uma pasta
+
+mkdir -p
+Cria uma pasta dentro de outra
+
+mv
+Move o diretório ou pode renomeá-lo
+
+nano
+Abre um editor de texto
+
+vi
+Modo de leitura de um arquivo
+
+:wq
+Guardar e sair
+
+cat
+Mostra o que foi digitado dentro do arquivo
+
+cat/log/syslog
+Ver as ações que foram feitas no servidor
+
+find /home/ -name
+Procurar arquivo em um diretório
+
+df
+Mostra a porcentagem de partições
+
+free
+Quantidade de memória
+
+ifconfig
+Mostra as configurações da placa
+

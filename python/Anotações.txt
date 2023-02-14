@@ -1,0 +1,36 @@
+//////////////////REGRAS/////////////////
+
+#CASE SENSITIVE: N é diferente de n
+NÃO DECLARA TIPO DE VARIÁVEL
+
+
+////////////////COMANDOS/////////////////
+
+-*- coding:utf-8 -*- :fazer o python entender os acentos
+print: exibe uma mensagem
+# ou """: comenta código
+range: retorna uma lista
+
+
+////////////////FUNÇÕES//////////////////
+
+input: recebe dados enviados pelo usuário
+int: converte uma string em um número inteiro
+append: adicionar em uma lista
+
+
+
+//////////////////POO////////////////////
+
+Objetos são instâncias de classes.
+Classes são abstrações.
+Objetos possuem atributos e metódos.
+Atributos são características pré determinadas.
+Métodos são ações que podem ser aplicadas a objetos.,
+
+
+COMO APLICAR UM MÉTODO:
+objeto.metodo()
+
+COMO VERIFICAR UM ATRIBUTO:
+objeto.atributo

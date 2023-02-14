@@ -1,4 +1,4 @@
-	O SQL, Structured Query Language, ouLinguagem de Consulta Estruturada, é a linguagem definida como declarativa que é utilizada paraconversar com um banco de dados relacional, ou seja, um banco dividido em tabelas e linhas.
+O SQL é a linguagem definida como declarativa que é utilizada paraconversar com um banco de dados relacional, ou seja, um banco dividido em tabelas e linhas.
 A linguagem é um grande padrão de banco de dados pela sua simplicidade e objetividade.
 
 Um banco de dados é uma ferramenta que irá gerar as nossas estruturas de bancos de dados a partir da interpretação dos scripts SQL.
@@ -42,7 +42,7 @@ Pesquisa no Banco
 Utilizamos a cláusula Select para realizar pesquisas no banco, pesquisas estas que resultam em tabelas com os resultados dos nossos filtros.
 
 Rollback: voltar ação.
-_____________________________________________________________________________COMANDOS_______________________________________________________________________________
+//////////////////////////////////////////////////////////////////////////COMANDOS/////////////////////////////////////////////////////////////////////////////////
 
 
 CREATE DATABASE - cria banco de dados
