@@ -1,0 +1,24 @@
+************************************************************************ BIG DATA  Fundamentos ************************************************************************
+
+
++ Definindo ETL +
+
+@ Extrair, transformar e carregar.
+
+
+
++ Definindo ELT  +
+
+@ Extrair, carregar e transformar.
+
+
+
+# Oracle Data Integrator
+# Apache Spark
+# Azure Data Factory
+# AWS Glue
+# Amazon Athena
+# Apache Airflow
+# Power Center
+
+

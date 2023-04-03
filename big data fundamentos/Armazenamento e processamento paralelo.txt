@@ -1,0 +1,94 @@
+************************************************************************ BIG DATA  Fundamentos ************************************************************************
+
++ O que é um Cluster de computadores? +
+
+* Um servidor é um computador, geralmente com alta capacidade computacional, que "serve" (fornece) serviços de armazenamento, aplicações ou bancos de dados.
+* Um servidor possui escalabilidade vertical, ou seja, há um limite até onde conseguimos incluir mais espaço  em disco, mais processamentos e mais memória RAM.
+
+@ Um cluster de computadores é um conjunto de servidores com um mesmo propósito visando fornecer um tipo de serviço, como armazenamento ou processamento de dados.
+
+# Um cluster possui escalabilidade horizontal, ou seja, se quisermos aumentar a capacidade computacional incluímos mais máquinas no cluster (além da escalabilidade vertical de cada máquina individual no cluster).
+# Cluster de computadores são cada vez mais usados em Big Data, o que nos permite realizar armazenamento e processamento paralelo através de diversas máquinas (diversos servidores). 
+
+
++ O que é armazenamento paralelo? +
+
+* Com cluster de computadores aumentamos de forma considerável a capacidade computacional.
+
+@ O armazenamento paralelo consiste em distribuir o armazenamento de dados através de diversos servidores (computadores), o que permite aumentar de forma considerável a capacidade de armazenamento usando hardware de baixo custo.
+
+
++ Software para armazenamento paralelo - Apache Hadoop + 
+
+? Como gerenciar o aramazenamento paralelo através de diversos computadores ?
+
+* Precisamos de um sistema de arquivos distribuídos. Computadores pessoais geralmente geralmente possuem sistema de arquivos (NTFS, ext3, etc), mas ele não foi desenvolvido para armazenamento distribuído.
+* Entre algumas opções, o Apache Hadoop HDFS (Hadoop Distributed File System) tem se mostrado a solução ideal para gerenciar o armazenamento distribuído em um cluster de computadores.
+
+# Desenvolvido na era do Big Data;
+# Open Source;
+# Pensado para hardware de baixo custo.
+
+* O HDFS é o software responsável pela gestão do cluster de computadores definindo como os aarquivos serão distribuídos através do cluster.
+* Com o HDFS podemos contruir um Data Lake que roda sobre um cluster de computadores e permite o armazenamento de grandes volumes de dados com hardware commodity (de baixo custo).
+
+! Isso permitiu que o Big Data pudesse ser usado em larga escala.
+
+
+
++ Processamento paralelo de Big Data +
+
+* No processamento paralelo o objetivo é dividir umatarefa em várias sub-tarefas e executá-las em paralelo.
+* O Apache Hadoop MapReduce e o Apache Spark são dois frameworks parra esse propósito.
+
+# Ao usar um framework de processamento paralelo, as sub-tarefas são levadas para o processador da máquina do cluster onde os dados estão armazenados, aumentando assim a velocidade de processamento de grandes volumes de dados.
+
+
++ Arquitetura de armazenamento e processamento paralelo + 
+
+@ O HDFS é um serviço rodando em todas as máquinas do cluster, sendo um NameNode para gerenciar o cluster e os DataNodes que fazem o trabalho de armazenamento propriamente dito.
+
+@ O MapReduce também é um serviço rodando em todas as máquinas do cluster, sendo um Job Tracker para gerenciar o processamento e os Task Trackers que fazem o trabalho de processamento. 
+O Job Tracker consulta o NameNod a fim de saber a localização dos blocos de dados nas máquinas do cluster.
+Os Task Trackers se comunicam com os DataNodes para obter os dados do disco, executar o processa,mento e então retornar o resultado ao Jog Tracker.
+
+! Essa arquitetura permite armazenar e processar grandes quantidades de dados e assim extrair o valor do Big Data atravé da análise de dados.
+
+
+! Azure HDInsigths
+! Amazon EMR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,84 @@
+********************************************************************INTRODUÇÃO A CIÊNCIA DE DADOS 3.0******************************************************************
+
+
+
++ 16 Fatos importantes sobre a Ciência de Dados +
+
+* O mercado de análise de Big Data deve atingir US$ 103 bilhões em 2023.
+* A baixa qualidade dos dados custa à economia dos EUA até US$ 3,1 trilhões por ano.
+* Em 2020, cada pessoa gerou 1,7 megabytes em apenas um segundo.
+* Os usuários da internet geram cerca de 2,5 quintilhões de bytes de dados por dia.
+* 95% das empresas citam a necessidade de gerenciar dados não estruturados como um problema para seus negócios.
+* 97,2% das organiz~ções estão investindo em Big Data e IA.
+* Usando análise de Big Data, a Netflix economiza US$ 1 bilhão por ano na retenção de clientes.
+* Mais de 90% de todos os dados do mundo foram criados nos últimos 2 anos.
+* O mercado de análise de Big Data em saúde pode valer US$ 67,82 bilhões em 2025.
+* A criação de dados crescerá para mais de 180 zetabytes em 2025.
+* As interações de dados aumentaram 5000% entre 2010 e 2020.
+* Hoje, uma pessoa levaria aproximadamente 181 milhões de anos para baixar todos os dados da internet.
+* Em 2020, o mercado de análise de Big Data cresceu 14%.
+* O número de dispositivos IoT pode aumentar para 41,6 bilhões em 2025.
+* As vagas de empregos para funções em Ciência de Dados alcançaram cerca de 2,7 milhões em 2020 em todo mundo.
+* As vagas em Ciência de Dados aumentarão em cerca de 28% até 2026.
+
+# Esses fatos demonstram que precisaremos de técnica, ferramentas, procedimentos e processos para analisar os dados, extraindo valor e ajudando as empresas a aumentar lucro, reduzir custo e sobreviver em um mercado cada vez mais competitivo e orientado a dados (data-driven).
+
+
+
++ Definição de Ciência de Dados +
+
+@ Ciência de Dados (ou Data Science) é o termo usado para definir a extração de insights de dados que são coletados de várias fontes.
+	Utilizando várias técnicas, incluindo modalagem preditiva (Machine Learning), a Ciência de Dados ajuda a analisar e interpretar grandes quantidades de dados.
+	Ciência de Dados é o processo para extrair informações valiosas a partir de dados. Como estamos vivendo na era do Big Data, a Ciência de Dados está se tornando um campo cada vez mais importante para explorar e processar grandes volumes de dados, com diferentes formatos, gerados a partir de várias fontes e em diferentes velocidades.
+	Ciência de Dados é uma grande disciplina em si e consiste em conjuntos de habilidade especializadas, tais como: estatística, matemática, programação, computação e conhecimentos de negócios, além de té´cnicas e teorias como análise preditiva, modelagem, mineiração de dados e visualização de dados.
+	O principal objetivo da Ciência de Dados é extrair e interpretar os dados de forma eficaz e apresentá-los em uma linguagem simples para os usuários finais e tomadores de decisão.
+ 	Assim, a Ciência de Dados visa entregar informações úteis e a capacidade de converter essas informações e produtos "data-driven"!
+
+
+
++ Áreas de Conhecimento +
+
+@ A Matemática e Estatística fornecem técnicas e procedimentos de cálculo, análise, correlação, transformação, limpeza e interpretação de dados.
+
+@ A Ciência da Computação fornece as ferramentas usadas no processo de análise, tal como programação de computadores, armazenamento e processamento paralelo e otimização do tempo de execução dos processos de análise. 
+
+@ Conhecimento das áreas de negócio: O objetivo da Ciência de Dados é resolver problemas de negócio e o conhecimento de domínio (área de negócio) é fundamental para saber intepretar  os dados e os resultados do processo de análise.
+
+@@ Em essência, a Ciência de Dados envolve o uso de métodos automatizados (Ciência da Computação) para analisar (Matemática e Estatística) enormes quantidades de dados a fim de extrair conhecimento (áreas de negócio) a partir dos dados.
+
+ 
+
++ A importância da Ciência em Ciência de Dados +
+
+@ Ciência de Dados é a exploração e análise de todos os dados disponíveis, sejam eles estruturados ou não, com o objetivo de desenvolver compreensão, extrair conhecimento e formular ações que geram resultados.
+
+&& Data Science
+	* Método científico
+	* Matemática
+	* Estatística
+	* Computação Avançada
+	* Visualização
+	* Engenharia de Dados
+	* Conhecimento de Negócios
+	* Solução de Problemas
+
+
+
++ Dados e tomada de decisão +
+
+DADOS --> DECISÕES --> AÇÕES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                           

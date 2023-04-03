@@ -1,0 +1,72 @@
+************************************************************************ BIG DATA  Fundamentos ************************************************************************
+
++ O que é Cloud Computing? +
+
+@ A Computação em Nuvem (Cloud Computing) é a entrega de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise einteligência, pela internet ("a nuvem") para oferecer recursos flexiveis, inovação
+e economia da escala.
+
+# Normalmente, pagamos apenas pelos serviços em nuvem que usamos, ajudando a reduzir os custos operacionais, operar a infraestrutura de forma mais eficiente e escalar conforme as necessidades de negócios mudam.
+
+
+
++ Cloud Computing e Big Data +
+
+! Muitos dados para serem armazenados em banco local tem limite físico, gasta energia, menos seguro.
+! Armazenamento em nuvem é mais seguro, limite enorme de dados, paga pelo o que usa.
+
+@ AWS
+@ MICROSOFT
+@ GOOGLE
+@ ALIBABA
+@ ORACLE
+@ IBM
+
+
+
++ O que é Machine Learning? +
+
+@ É uma sub-area da Inteligencia Artificial (IA) e da Ciência da Computação que se concentra no uso de dados e algoritmos para imitar a forma como os humanos aprendem, melhorando gradativamente sua precisão.
+
+
+
++ O Pipeline de Machine Learning +
+
+! Pipeline: Workflow (fluxo de trabalho)
+
+#Extração dos dados // Engenheiro de Dados
+
+# Preparação dos dados // Cientista de Dados
+	- Limpeza
+	- Transformação
+	- Normalização
+	- Processamento
+
+# Construção e treinamento do modelo (Modelagem) // Cientista de Dados / Engenheiro de IA
+	- Seleção do algoritmo
+	- Otimização de hiperparâmetros
+	- Treinamento
+	- Teste e avaliação
+
+# Deploy do modelo // Engenheiro de Machine Learning
+	- Deploy (Entregar o modelo)
+	- Processamento
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

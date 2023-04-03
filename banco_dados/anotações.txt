@@ -56,15 +56,19 @@ FROM - selecionar as tabelas para pesquisa
 PRIMARY KEY - chave primaria (id)
 AUTO_INCREMENT - auto completa, chave primaria
 TRIGGER (AFTER OU BEFORE) - gatilho 
+GO - Para de executar
+
 
 SELECT nome,
        id      ------ mostra os nomes e os id's que tem na tabela cidade
 FROM cidade;
 
 
+
 SELECT nome,
        id                                                 --------- mostra a cidade São Francisco, o seu id e cidade e o do estado
 FROM cidade WHERE nome = "São Francisco" AND id_estado;
+
 
 
 SELECT estado.nome,
@@ -73,6 +77,7 @@ FROM cidade,
      estado                       --------------- mostra  as colunas nome das tabelas do estado e da cidade do país 1
 WHERE cidade.id_estado=estado.id
 AND estado.id_pais=1;
+
 
 
 SELECT estado.nome,
