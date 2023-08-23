@@ -1,0 +1,74 @@
+**************************************************************FUNDAMENTOS DE INTELIGÊNCIA ARTIFICIAL*******************************************************************
+
+
+
++ O que é Inteligência Artificial +
+
+@ Inteligência Artificial é a capacidade de um sistema computacional ou mecanismo para realizar tarefas que normalmente exigem inteligência humana, como raciocínio, aprendizado e adaptação a novas situações.
+
+
+# Classificação da IA
+
+* IA fraca
+É limitada a realizar tarefas específicas
+
+*IA forte
+É capaz de realizar qualquer tarefa intelectual que um ser humano possa realizar
+
+
+&& IA pode ser usada em:
+
+!! Reconhecimento de voz
+!! Tradução de idiomas
+!! Condução autônoma de veículos
+!! Análise de Dados
+!! Diagnóstico médico
+!! Entre outros
+
+@@ IA pode realizar tarefas mais repetitivas ou perigosas. E seres humanos mais complexas ou criativas.
+
+
+
++ Como a IA está impactando os modelos de negócio? +
+
+# Automatização de tarefas
+# Análise de dados
+# Personalização
+# Inovação
+
+
+
++ Engenheiro de Inteligência Artificial +
+
+@ É uma pessoa que trabalha com tecnologias de IA para projetar, desenvolver e implementar sistemas de IA. Geralmente possuem uma formação sólida em ciência da computação e matemática.
+Podem ser responsáveis por gerenciar equipes de desenvolvimento de IA.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

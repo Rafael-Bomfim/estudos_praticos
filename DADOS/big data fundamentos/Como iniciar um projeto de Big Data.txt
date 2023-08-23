@@ -1,0 +1,54 @@
+************************************************************************ BIG DATA  Fundamentos ************************************************************************
+
++ O que é o Big Data Analytics +
+
+@ Quando aplica-se técnicas de análise de dados para extraír do Big Data o melhor que ele tem a oferecer.
+
+
+
++ Como as empresas estão utilizando o Big Data? +
+
+* Manufatura
+* Finanças
+* Saúde
+* Varejo
+
+
+
++ Como iniciar um projeto de Big Data +
+
+1. Definição do Business Case
+	* Definir exatamente os objetivos do projeto;
+2. Planejamento do projeto
+	* Identificar questões comerciais, determinar o escopo adequado
+3. Definição dos requisitos técnicos
+	* Definir os atributos do banco de dados, quais ferramentas de análise utilizar, habilidade técnicas para trabalhar com os requisitos definidos
+4. Criação de um "Total Bussunes Value Assessment"
+	* Quanto tempo leva para sutir efeito? (Geralmente 3 anos). Escalabilidade, padrões, estrutura analítica, suporte e manutenção. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

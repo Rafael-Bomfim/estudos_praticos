@@ -1,0 +1,107 @@
+********************************************************************INTRODUÇÃO A CIÊNCIA DE DADOS 3.0******************************************************************
+
+
+
++ O que é um Projeto? +
+
+* Um esforço único, temporário e progressivo empreendimento para criar um produto, serviço ou resultado exclusivo.
+* Tem início e fim determinados
+* Objetivo claro a ser atingido dentro dos recursos que são destinados a ele.
+* Geralmente divido em etapas
+* Não devem ter duração indefinida e nem ecursos ilimitados
+* O sucesso de um projeto é medido pela qualidade do produto e do projeto, pela pontualidade, pelo cumprimento do orçamento e pelo grau de satisfação do cliente
+
+& É único
+& Tem inicio e fim definidos
+& É progresivo
+& Tem limitação de recursos
+& Tem objetivo claro e viável
+
+
+
++ Projetos de Ciência de Dados +
+
+* Todo projeto de Data Science deve começar com o objetivo, ou seja, as questões que precisam ser respondidas
+* Depois de formuladas as questões, busca-se os dados que ajudarão a respondê-las
+* Boas práticas definidas pelo PMI
+
+#%# Inicialmente, é vital compreender o problema a ser resolvido (raramente vem empacotados de forma clara).
+#%# Avaliar e reavaliar o problema e desenhar uma solução, é um processo iterativo de descoberta.
+#%# Na prática, o maior desafio em Ciência de Dados, está na identificação do problema.
+
+!¨! Identificar o problema é uma das tarefas principais em um projeto de Data Science.
+
+
+
++ Ciclo de Vida de Projetos de Ciência de Dados +
+
+------------------------------------------------------>>>>>>>>>
+
+Planejamento --> Engenharia de Dados --> Analytics --> Produção
+
+<<<<<<<<<------------------------------------------------------
+
+## Planejamento:
+
+* Compreensão do Problema de Negócio
+* Definição do Problema de Negócio
+* Conhecimento dos Dados
+* Responsabilidade da Equipe de Ciência de Dados com as Áreas de Negócio
+
+## Engenharia de Dados
+
+* Aquisição e Armazenamento de Dados
+* Limpeza e Transformação
+* Enriquecimento e Persistência
+* Responsabilidade do Engenheiro de Dados / Arquiteto de Dados
+
+## Analytics
+
+* Análise Exploratória de Dados
+* Modelagem Estatística / Preditiva
+* Inferência e Previsões
+* Responsabilidade do Analista de Dados / Cientista de Dados
+
+## Produção
+
+* Construção de Produtos de Dados
+* Pipelines de Dados e Pipelines de Machine Learning
+* Melhoria Contínua
+* Responsabilidade do Engenheiro de Machine Learning / Engenheiro Data Ops
+
+
+
++ Produtos gerados +
+
+%% Aqualidade dos outputs será determinada pelas qualidades dos inputs. Bons resultados dependem da formulação de boas questões.
+
+* Relatórios
+* Gráficos e Dashboards
+* Modelos Estatísticos/Preditivos
+* Web Apps
+* Sistema de Recomendação 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

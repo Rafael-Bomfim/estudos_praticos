@@ -1,0 +1,23 @@
+********************************************************************INTRODUÇÃO A CIÊNCIA DE DADOS 3.0******************************************************************
+
+
+
++ Os 5 Pré-Requisitos para aplicar a Ciência de Dados +
+
+1- Problema de Negócio
+2- Dados Históricos
+3- Padrão Existente nos Dados
+4- Capacidade Computacional para Armazenamento e Processamento de Dados
+5- Proffissionais Qualificados
+
+# Podemos aplicar a Ciência de Dados em qualquer área, desde que tenhamos um problema a ser resolvido, dados históricos estejam disponíveis, exista um padrão nos dados, seja possível armazenar e processar os dados e profissionais qualificados possam realizar o trabalho.
+
+
+
+
+
+
+
+
+
+

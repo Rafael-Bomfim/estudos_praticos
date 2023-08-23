@@ -1,0 +1,62 @@
+**************************************************************FUNDAMENTOS DE INTELIGÊNCIA ARTIFICIAL*******************************************************************
+
+
+
++ Processo de Aprendizagem +
+
+# Aquisição: durante esta fase, o indivíduo é exposto a nova informação ou estímulo e essa informação é processada e armazenada na memória.
+
+#Retenção: essa fase se concentra na manutenção da informação adquirida. Isso inclui a capacidade de acessar a informação quando necessário e a capacidade de evocá-la para uso futuro.
+
+# Recuperação: essa fase se concentra na utilização da informação adquirida. Isso inclui a capacidade de aplicar o conhecimento adquirido em novas situações ou problemas, e a capacidade de adaptar o conhecimento adquirido para se adequar a novos contextos.
+
+Em geral, o processo de aprendizagem de IA inclui as seguintes etapas:
+
+1. Coleta e preparação dos dados.
+2. Escolha do algoritmo e configuração dos parâmetros.
+3. Treinamento do modelo com os dados de treinamento.
+4. Avaliação do modelo com dados de teste.
+5. Ajuste do modelo e retreinamento, se necessário.
+6. Uso do modelo para fazer previsões sobre novos dados.
+
+
++ O que é Machine Learning +
+
+@ Aprendizado de máquina é um campo da ciência da computação, que se concentra em criar sistemas, que são capazes de aprender, a partir de um conjunto de dados, sem precisar de programação direta.
+
+
++ Tipos de aprendizado +
+
+$ Aprendizado supervisionado
+$ Não-supervisionado
+$ Por reforço
+$ Por transferência
+$ Profundo
+
+
++ O que é Classificação +
+
+@ É uma tarefa de aprendizado supervisionado que envolve a categorização de dados em classes predefinidas. O objetivo é desenvolver um modelo capaz de aprender com um conjunto de dados de treinamento, composto por exemplos rotulados, e posteriormente classificar novos dados com base nesse aprendizado.
+
+
++ O que é Regressão +
+
+@ É uma tarefa de aprendizado de máquina que se concentra e,m prever um valor continuo, ou seja, um número real com base em uma ou mais variáveis de entrada.
+ 
+# O algoritimo é treinado com um conjunto de dados que inclui valores conhecidos para as variáveis de entraa e as variáveis de saída. O objetivo é encontrar uma relação entre elas.
+
+* Regressão linear
+@ É uma técnica utilizada para estabelecer relação ente uma variável x e y ou mais variáveis independentes. É uma ferramente usada para para prever o valor de saída a partir de uma ou mais entradas.
+
+* Regressão logística
+@ É uma técnica usada para prever a probabilidade de ocorrência de um evento binário, ou seja, de classificar se o resultado é sim ou não. É uma generalização da regressão linear pois a saida é transformada em uma probabilidade que é aplicada em uma função de ativação para produzir a classificação.
+
+* Regressão polinomial
+@ É uma técnica que estende a regressão linear permitindo modelar relações mais complexas entre a variável dependente e uma ou mais variáveis independentes.
+
+
+
+
+
+
+

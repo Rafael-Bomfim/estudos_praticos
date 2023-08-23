@@ -1,0 +1,180 @@
+********************************************************************INTRODUÇÃO A CIÊNCIA DE DADOS 3.0******************************************************************
+
+
+
+* Até 2024, estima-se que 35 Zettabytes de dados estejam circulando na rede.
+
++ Analista de negócios +
+
+* Estabelecer os objetivos e o âmbito de sistemas de negócios e de TI
+* Identificar problemas organizacionais e conceber soluções orientadas a dados
+* Realizar análises estatísticas, pesquisas e testes
+* Recomendar mudanças nos processos ou ofertas de produtos para tornar os departamentos internos mais eficientes
+* Conceber novos sistemas ou alterar os existentes
+* Fazer recomendações específicas de TI e apoiar a sua implementação
+* Agir como um elo de ligação entre os gestores e equipes técnicas
+* Coletar requerimentos e necessidades das áreas de negócio.
+
+
+
++ Analista de Dados +
+
+*Trabalhar com as equipes de TI, Gestão e/ou Cientistas de Dados para determinar e realizar o processo de análise de dados
+* Coletar dados de fontes primárias e secundárias
+* Efetuar modelagem de dados para análise
+* Realizar limpeza nos dados e descartar informações irrelevantes
+* Analisar e interpretar os resultados utilizando ferramentas estatísticas e técnicas convencionais
+* Identificar tendências, correlações e padrões em conjunto de dados complexos através de análise exploratória
+* Identificar novas oportunidades para melhoria de processos
+* Concepção, criação e manutenção de bancos de dados relacionais e NoSQL
+* Resolver problemas de código e questões relacionadas a dados
+* Dominar linguagens como R, Python ou SQL e saber construir visualizações eficientes
+
+
+
++ Cientista de Dados +
+
+* Empregar os programas de análise, aprendizado de máquina (Machine Learning) e métodos estatísticos para preparar os dados para uso em modelagem preditiva e prescritiva.
+* Explorar e analisar dados de uma variedade de ângulos para determinar fraquezas escondidas, tendências e/ou oportunidades
+* Conceber soluções orientadas a dados para os principais desafios da empresa
+* Criar novos algoritmos para resolver problemas e usar ferramentas para automatizar o trabalho
+* Atuar com o engenheiro de dados para extrair grande volumes de dados de multiplas fontes internas e externas
+* Comunicar previsões e resultados para a gestão e áreas de negócio através de visualização de dados eficazes.
+
+
+
++ Engenheiro de Dados +
+
+* Projetar, construir, instalar, testar e manter sistemas de gerenciamento de dados altamente escaláveis, localmente e/ou na nuvem
+* Pesquisar a aquisição de dados e novos usos para dados existentes
+* Desenvolver processos de modelagem de dados e mineração 
+* Integrar novas tecnologias de gerenciamento de dados com Data Warehouse, Data Lakes, e Data Stores
+* Implementar arquiteturas de microserviços para uso dos dados
+* Criar pipelines de dados e processos ETL 9Extração, Transformação e Carga)
+* Implementar procedimentos de recuperação de desastres e alta disponibilidade de dados
+* Implementar políticas de segurança no acesso aos dados e compliance com GDPR e LGPD
+
+
+
++ Machine Learning +
+
+* Projetar sistemas de Machine Learning (ML)
+* Efetuar o deploy de modelos de ML através de boas práticas de Engenharia de Software
+* Desenvolver aplicativos de ML para o deploy de modelos
+* Criar pipelines de ML para o uso dos modelos em produção
+* Executar testes e experimentos de ML
+* Realizar análise estatística e ajuste fino (otimização) dos modelos criados por Cientistas de Dados 
+* Treinar e retreinar os modelos de ML conforme necessário
+* Aplicar bibliotecas e frameworks de ML
+* Manter-se atualizado sobre as novas tecnologias
+
+
+
++ Arquiteto de Dados +
+
+* Colaborar com as equipes de TI e Gestão para elaborar uma estratégia de dados que atenda os requisitos da empresa.
+* Criar um inventário de dados necessários para implementar a arquitetura.
+* Pesquisar novas oportunidades de aquisição de dados.
+* Projetar jobs ETL e pipelines de dados.
+* Criar um fluxo de dados (pipeline) dentro da empresa.
+* Desenvolver modelos de dados.
+* Projetar, documentar, construir e implantar arquiteturas e aplicações de banco de dados (por exemplo, grandes bancos de dados relacionais e NoSQL).
+* Projetar funcionalidades técnicas (por exemplo, escalabilidade, segurança,
+desempenho, recuperação de dados, confiabilidade, etc.) Implementar medidas para assegurar a precisão dos dados e acessibilidade.
+* Criar procedimentos de gestão de metadados e compliance com GDPR e LGPD.
+
+
+
++ Engenheiro de Data OPS +
+
+* Estabelecer plataformas, processos e estruturas de DataOps para melhorar a qualidade dos dados e o ciclo de vida dos dados.
+* Implementar integração contínua e entrega de pipelines de dados.
+* Criar e implementar estruturas de teste automatizadas para testar pipelines de dados.
+* Projetar e implementar frameworks de verificação de qualidade de dados para garantia de qualidade de dados.
+* Projetar, implementar e aprimorar sistemas de alerta e monitoramento para a pilha geral de aplicativos de dados.
+* Proteção de dados confidenciais da empresa por meio de políticas de segurança apropriadas.
+* Projetar e implementar soluções para oferecer suporte a Data Warehouses, Data Lakes e Data Stores.
+
+
+
++ Administrador de Banco de Dados +
+
+* Suporte técnico aos bancos de dados existentes.
+* Personalização de bancos de dados para necessidades específicas.
+* Planejamento e projeto de bancos de dados para necessidades específicas.
+* Solução de problemas para atender às necessidades da área de Ciência de Dados.
+* Otimização de consultas SQL.
+* Supervisão da instalação de novos SGBDs.
+* Criar procedimentos de backup, restauração e recuperação de desastres. 
+* Atuar com bancos de dados relacionais e não relacionais.
+
+
+
++ Estatístico +
+
+* Aplicar teorias e métodos estatísticos para resolver problemas práticos de negócios, engenharia, ciências ou outras áreas de conhecimento.
+* Analisar e interpretar dados usando ferramentas, algoritmos, modelos estatísticos e software (por exemplo R, SAS, SPSS, Python, etc.)
+* Decidir quais dados são necessários para responder a perguntas ou problemas específicos.
+* Aplicar testes de hipóteses para validar ou rejeitar teorias e problemas de negócio.
+* Realizar modelagem estatística.
+* Analisar correlações entre os dados e aplicar testes de causalidade.
+* Comunicar as descobertas às partes interessadas e gestores.
+* Assessoria organizacional à estratégia de negócios.
+* Auxiliar na tomada de decisão.
+
+
+
++ Engenheiro de Inteligência Artificial +
+
+* Construir modelos de IA usando algoritmos de aprendizado de máquina e redes neurais de aprendizado profundo para obter insights.
+* Ter um bom conhecimento de programação, engenharia de software e Ciência de Dados.
+* Dominar diferentes ferramentas e técnicas de processamento de dados objetivando manter Sistemas de Inteligência Artificial.
+* Criar diferentes aplicativos de Inteligência Artificial como segmentação de tópicos com base em análise de sentimentos.
+* Construir modelos de Visão Computacional.
+* Construir modelos de Processamento de Linguagem Natural. Usar IA para resolver problemas de negócio.
+
+
+
++ Funções Gerenciais em Data Science +
+
+	Apesar de muitas denominações possíveis, 5 posições chave em liderança de projetos de Data Science dão facilmente identificáveis:
+
+# Líder de Equipe de Data Science
+# Líder de Projeto de Data Science
+# Gerente de Data Science
+# Gerente de Dados e Analytics
+# Chief Data Officer (CDO)
+
+
+
++ Soft Skills +
+
+% Comunicação
+% Perseverança
+% Criatividade
+% Senso de Negócio
+% Pensamento Crítico para Solução de Problemas
+% Inteligência Emocional
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

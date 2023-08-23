@@ -1,0 +1,40 @@
+********************SITES*********************
+#color-hex > paletas > paletas populares
+Procurar paletas de cores
+
+#Mycolor.space
+Sugere cores que combinam com uma cor já escolhida
+
+#pinterest > dashboards
+Ideias para criar dashboards
+
+#dribbble
+Ideias para criar dashboards
+
+#flaticon.com (usar palavras em inglês)
+Fornece ícones, tranformas palavras em algo visual
+
+#instant eyedropper (dowload)
+Identificar cores
+
+#SYNOPTIC DESIGNER FOR POWER BI
+Mapeamento de gráficos
+
+#https://pt-br.imgbb.com/
+Criar link de imagens
+
+
+******************ATALHOS*******************
+SHIFT + TAB = Recua a identação
+CTRL + F2 = Seleciona todas as palavras iguais 
+
+
+
+************VISUAIS PERSONALIZADOS**************
+# Sparkline (linha para cartão)
+# WordClound (nuvem de palavras)
+# Radar Chart (gráfico de radar)
+# ChicletSlicer (filtro com imagens)
+# Image Grid (gráfico com imagens)
+# Grant (colnas empilhadas)
+# Synoptic Panel (área personalizada)

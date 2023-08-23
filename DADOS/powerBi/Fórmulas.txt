@@ -1,0 +1,18 @@
+linguagem do power Bi = Dax
+d = Dimensão
+f = Fatos
+
+
+Fórmulas::
+
+CALCULATE(a operação(1º a conta que eu quero fazer)), CONDIÇÃO - calcular baseado em uma condição
+BLANK() = vazio
+<> diferente 
+COUNTROWS() = conta a quantidade d linhas de uma tabela
+ALLSELECTED = filtros dinâmicos
+DISTINCTCOUNT = conta as linhas diferentes
+SUMX = Multiplica duas colunas e somando seu resultado
+CALENDARAUTO() = exibe as datas que possui na base de dados
+MONTH(data.....) = exibe o número do mês
+FORMAT(dCalendario[Data da Venda], "MMM") = exibe as três primeiras letras do nome do mês
+

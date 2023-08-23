@@ -1,0 +1,51 @@
+**************************************************************FUNDAMENTOS DE INTELIGÊNCIA ARTIFICIAL*******************************************************************
+
+
+
++ O que é um modelo de Inteligência Artificial +
+
+@ É um sistema projetado para realizar tarefas que normalmente exigem inteligência humana como reconhecimento de padrões, aprendizado de máquina, tomada de decisão e resolução de problemas.
+São treinados com conjuntos de dados específicos para tarefas específicas como, classificar imagens ou traduzir idiomas. 
+
+* Ciência da computação
+* Medicina
+* Segurança
+* Engenharia
+
+
+
++ Capacidade da Inteligência Artificial +
+
+$ Realizar tarefas automatizadas 
+$ Aprender por si mesma
+$ Analisar grandes quantidades de dados
+
+! Entender o contexto
+! Ser criativa
+! Replicar o pensamento humano
+! Pegar uma folha de alface
+
+
+
+JHON MCCARTHY (Considerado o PAI da IA)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

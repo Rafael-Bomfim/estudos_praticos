@@ -1,0 +1,40 @@
+**************************************************************Microsoft Power BI Para Business Intelligence e Data Science*******************************************************************
+
+
++ Introdução +
+
+O Que é Business Intelligence?
+
+Business Intelligence (BI) é um conjunto de técnicas e ferramentas utilizadas para transformar dados em informações úteis para a tomada de decisão empresarial. O BI permite aos usuários analisar dados de diferentes fontes, criar relatórios e visualizações e monitorar indicadores-chave de desempenho (KPIs) para ajudar a identificar tendências e oportunidades. As ferramentas de BI incluem relatório, dashboards, mineração de dados, análise estatística e até Inteligência Artificial.
+Normalmente usamos BI a fim de olhar para o passado e compreender o que aconteceu.
+
+
+Business Intelligence e Big Data
+
+Business Intelligence (BI) e Big Data são duas áreas relacionadas. BI é um conjunto de técnicas e ferramentas usadas para transformar dados em informações valiosas para a tomada de decisões de negócios. Enquanto Big Data se refere a grandes quantidades de dados, provenientes de uma variedade de fontes e com diferentes formatos.
+A capacidade de processar grandes recursos de dados é uma das principais vantagens do Big Data, pois permite coletar e armazenar dados de muitas fontes diferentes, incluindo transações de negócios, dados de redes sociais, registros de sensores e outros tipos de dados não armazenados. O BI usa esses dados para criar insights e entender tendências que podem ser usados ​​para melhorar a eficiência e a rentabilidade dos negócios.
+Portanto, Big Data é uma fonte de informação para Business Intelligence e as ferramentas de BI foram se adaptando para lidar com essa quantidade de dados. Essas duas áreas trabalham juntas para ajudar as empresas a tomar decisões melhores e mais duradouras.
+Assim, uma outra área na qual o “Self-Service” BI está decolando é a análise de Big Data. Este é um fenômeno mais recente, mas está gerando um incrível crescimento e inovação. Big Data geralmente se refere a grandes conjuntos de dados que são simplesmente muito grandes para serem gerenciados ou consultados com ferramentas tradicionais de análise de dados. Esse volume imenso de dados é resultado da explosão de ferramentas de geração de dados, rastreamento, monitoramento, transação e redes sociais (para citar alguns) que se tornaram tão populares nos últimos anos.
+
+
+O que é Data Science?
+
+Data Science (Ciência de Dados) é um campo interdisciplinar que combina matemática, estatística e computação para extrair conhecimento e insights úteis a partir de grandes conjuntos de dados.
+Os profissionais de Data Science usam técnicas de análise estatística, mineração de dados, aprendizado de máquina e Inteligência Artificial para explorar e entender os dados, criar modelos para prever resultados e comunicar os insights obtidos para ajudar na tomada de decisão. Data Science é amplamente utilizado em vários setores, como finanças, saúde, marketing, varejo e tecnologia
+
+
+O que é o Microsoft Power BI?
+
+Microsoft Power BI é uma plataforma de Business Intelligence (BI) da Microsoft que permite aos usuários visualizar e analisar dados de diferentes fontes, criar relatórios e painéis interativos e compartilhar insights com outros usuários.
+O Power BI permite que os usuários se conectem a diversas fontes de dados, incluindo planilhas, bancos de dados, serviços de nuvem e aplicativos, e transformem esses dados em informações valiosas.
+Com o Power BI, os usuários podem importar, limpar, transformar e modelar dados, criar relatórios e visualizações e publicá-los em um ambiente compartilhado (na versão paga). Ele também tem recursos avançados como dashboards interativos, análise de dados, Inteligência Artificial e automatização de relatórios.
+
+
+O que é uma Microsoft Power Platform?
+A Microsoft Power Platform é uma plataforma de automação de negócios e desenvolvimento de aplicativos baseada em nuvem que permite aos usuários criar e personalizar soluções de negócios sem a necessidade de programação de computadores. A plataforma possui quatro componentes principais:
+Power Automate: permite aos usuários automatizar fluxos de trabalho, como aprovações, notificações e integrações com aplicativos e serviços externos, usando regras e fluxos de trabalho pré-construídos ou personalizados.
+Power Apps: permite aos usuários criar aplicativos personalizados para web e dispositivos móveis sem necessidade de programação, utilizando modelos e componentes pré-construídos ou personalizados.
+Power BI: permite aos usuários visualizar e analisar dados de diferentes fontes, criar relatórios e painéis interativos e compartilhar insights com outros usuários.
+Power Virtual Agents: permite aos usuários criar chatbots personalizados sem necessidade de programação, utilizando modelos e componentes pré-construídos ou personalizados.
+A Power Platform é projetada para ser fácil de usar, escalável e segura, e é baseada na plataforma Microsoft Azure, permitindo aos usuários aproveitar a segurança, a escalabilidade e os recursos de inteligência artificial da Azure.
+

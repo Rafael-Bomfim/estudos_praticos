@@ -1,6 +1,0 @@
-1 – Entre no seu navegador e acesse o endereço localhost (127.0.0.1) e tecle Enter, você verá a tela de boas vindas do Xampp.
-2 – Agora clique na opção phpMyAdmin. É aqui que vamos criar nosso banco de dados.
-3 – Após clicar na opção phpMyAdmin você terá a tela do mysql. Clique em New
-4 – Na opção Criar base de dados digite o nome do banco de dados e clique em Criar.
-5 – Pronto o banco de dados está criado.
-O phpMyAdmin que é um aplicativo web muito famoso e muito usado para administrar o MySQL via navegador.

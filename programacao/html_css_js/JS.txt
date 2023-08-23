@@ -1,0 +1,13 @@
+Atalhos::
+
+alt + z = quebra a linha sem atrapalhar o código
+ctrl + n = executa o código (necessário extensão do code runner)
+
+Comandos::
+
+.toString() converte a variável em string
+.toFixed(num) fixa duas casas após a vírgula em um número
+.replace("" , "") troca algo por outro
+.split("separador") tranforma uma string em um vetor de acordo com o separador
+Math.sqrt() calcula raiz quadrada de um número
+parseInt() muda uma variável para inteiro

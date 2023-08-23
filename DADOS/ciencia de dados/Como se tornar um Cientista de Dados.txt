@@ -1,0 +1,52 @@
+********************************************************************INTRODUÇÃO A CIÊNCIA DE DADOS 3.0******************************************************************
+
+
+
++ Decida qual o melhor caminho +
+
+? Qual a função ideal em ciência de Dados para o meu perfil ?
+
+!% Análise  de dados, análise exploratória, visualização e relatórios ==> Analista de Dados
+
+!% Modelagem estatística e modelagem preditiva com Machine Learning e InteligÊncia Artificial ==> Cientista de Dados
+
+!% Criação e implementação de pipelines de extração e armazenamento de dados ==> Engenheiro de Dados
+
+!% Deploy e implementação de modelos preditivos em sistemas de produção ==> Engenheiro de Machine Learning
+
+!% Design e planejamento de soluções e arquiteturas de dados ==> Arquiteto de Dados
+
+!% Criação, implementação e manutenção da operação de dados ==> Engenheiro de DataOPS 
+
+
+
++ Estatística e Matemática +
+
+# Estatística Descritiva (usada principalmente por Analista de Dados)
+# Probabilidade e Estatística Inferencial (usada principalmente por Cientistas de Dados)
+# Álgebra Linear e Cálculo (conceitos aplicados em modelagem preditiva e diversos tipos de análises)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
